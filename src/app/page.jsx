@@ -9,6 +9,7 @@ export default function Home() {
         <div className="head">
           Hey Guys Welcome to Animation World 😊
         </div>
+        <h3>Maker :-) YASH_JADHAV</h3>
       </div>
       <div className="view">
         <div className="block block1"></div>
